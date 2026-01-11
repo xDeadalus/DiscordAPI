@@ -1,0 +1,1 @@
+Very simple discord bot I created to learn Docker and practice my API skills in Python. To run it replace the None variable for the key with your actual discord bot key.
