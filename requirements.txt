@@ -1,0 +1,7 @@
+py-cord>=2.0.0
+python-dotenv>=1.0.0
+connexion[swagger-ui]>=3.0.0
+connexion[flask]>=3.0.0
+connexion[uvicorn]>=3.0.0
+flask>=2.3.0
+werkzeug>=2.3.0
